@@ -1,0 +1,24 @@
+.jumbotron{
+    background-image: url("assets/images/umbul.jpg");
+    background-size: cover;
+    height: 700px;
+    text-align: center;
+    margin-bottom: 6px;
+}
+.jumbotron .display-4{
+    margin-top: 200px;
+    color: #fff;
+}
+
+.jumbotron p{
+    font-size: 25px;
+    color: rgb(183, 255, 1);
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+}
+
+.jumbotron hr{
+    width: 400px;
+    border-width: 3px;
+    border-color: rgb(243, 224, 81);
+}
